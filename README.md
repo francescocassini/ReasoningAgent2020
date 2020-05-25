@@ -23,7 +23,7 @@ But it is important to understand that, while BabyAI aims to teach a combinatori
 
 A module responsible of the Natural Language Processing is needed in order to acquire spoken sentences and translate them in LDLf formulae. 
 
-For that reason, we wrote *nl2ldl.py* which returns an LDLf formula in the form of a regular expression. The script is based on a combination of other existing methods which are believed as being part of thhe state of the art. [2]
+For that reason, we wrote *nl2ldl.py* which returns an LDLf formula in the form of a regular expression. The script is based on a combination of other existing methods which are believed to be part of the state of the art. [2]
 
 ## Environment
 
