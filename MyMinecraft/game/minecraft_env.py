@@ -126,7 +126,7 @@ class TaskProgress:
 
 
 TASKS = OrderedDict({
-    'level1': Task('level1', [Use(Tools.KEY), Get(Resources.BALL), Move(Resources.BASE)])
+    'level1': Task('level1', [Use(Tools.KEY), Get(Resources.BOX)])
 })
 
 LOCATIONS = [
