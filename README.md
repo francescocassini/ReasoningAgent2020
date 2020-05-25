@@ -70,7 +70,7 @@ The agent must unlock the door first to access the other room. It can do so by u
 
 Just for giving you a better understanding about the environment, in the repository you can find an example in which the agent must satisfy the goal:
 
-**Use the key and get the box**
+* *Use the key and get the box*
 
 This is our *Level 1* and it is possible to notice that the box is placed in the second room, beyond the locked door. 
 So the agent is requested to unlock the door before proceeding and getting the box.
